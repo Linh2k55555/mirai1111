@@ -1,0 +1,14 @@
+{
+    "join": [
+        {
+            "threadID": "27601674442781146",
+            "status": true
+        }
+    ],
+    "leave": [
+        {
+            "threadID": "27601674442781146",
+            "status": true
+        }
+    ]
+}

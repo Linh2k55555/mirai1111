@@ -1,0 +1,1804 @@
+[
+  {
+    "timestamp": "2024-10-28T01:58:24.117Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", coep_report=\"https://www.facebook.com/browser_reporting/coep/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640039994812367\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coep\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640039994812367\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640039994812367\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-embedder-policy-report-only": "require-corp;report-to=\"coep_report\"",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "a6J+NNnfBe9aWEEMzMUkkFGxMdHoPdVfG6vWPJv0Onhb5xz/cNvmdttkbKbHdTd15Hs0KE0ckjt3XO5NZCRwmA==",
+        "date": "Mon, 28 Oct 2024 01:58:23 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcIoon7jnoqi2Yij0RWVjjfsMj8ScvKVb931IA0Ggx2GHnEY-lWw1MEmANG4rAuwnsoOuDgo2swQEoqLgo2Y\"; e_fb_binaryversion=\"AcI3VIJATkra-f2_BlXLYoWv_rtjHD9zoIbDDYKit9YSQ5NohDwV-byCCnFA_7FNzOuRpM_ET3UhH3TV7Isa4Ok709vf_IIZS5k\"; e_fb_httpversion=\"AcLwvb0G4z4HCfhOB9zyOMRdc0b2mF7JXxYj1RRGUGMHoRX40DU8QPzi7cMK\"; e_fb_responsebytes=\"AcIo_sdwkMHB5IX7Ok23tx-IfMoRkCZcnKV750TRiSqxAPHeNW8AlF821zY\"; e_fb_requesttime=\"AcL0h7NK0rY-XkCDmaZ4Ofp0cL9Y2e23RH9F3cmkOoOP5o5QoNTSuMCzDY8iCID5sDYs9PX3Hw\"; e_fb_requesthandler=\"AcKLjUID7NcO0LlixVgI-s04X9eMp3gbePhyQMqBDlXxVFc2wqyGL_k5D0z0It2JaCpjHsHA\"; e_fb_hostheader=\"AcKWfONu2Hhl2wRb50SGcY5O5FczncV3jdyUXWyQJcJzSiylHzWBvrN59dOYifn7cYjdt22tABAR8A\"; e_fb_requestsequencenumber=\"AcKoD4MP5IMlsA2Rw5s75ympOFXPqxQRTJvyW6jA5_UdFtD59h-cRT3v9pgJ\"; e_upip=\"AcL1ttYFVdJO9aMHj_-NoEVaCgL1wOlrzPKzpVeL1bh6g3Nd-hgVoOjXbvtVxo-R7RX_UWjBnp_b47dWTF9SdBAMUsSu125F3vIzFw\"; e_fb_builduser=\"AcKYuf3XEhDV9cgbqhTUChmJCMVmgLLFPwvQIXV5maLrHlhYSe1OwIkECMEbsqTKImY\"; e_fb_vipport=\"AcKmfL-6Jexw-AsyW45LhkG3D2BHYNK03ru9MGieAErTSOo7OzDbAgwUkINc\"; e_clientaddr=\"AcIIlRkqqx1Icej4RwNktDswixe3O4zHBiZLP1d42c91p2UzIKEriCUy-EZSEcyrAThDA55oLzpuiVweosFFAYX1Q7nCoCtlQnaWeES7AAsbc0ldCA\"; e_fb_vipaddr=\"AcL_pnAWgimQX80lkknGTQRuZ73eqXPlU7_B6J6rErZV9rzFJz44klK2arWRlTshKutzOC5UTSfTwzwwRmKr0Oc2M_l9ZlInwg\"; e_fb_configversion=\"AcJhz48Za84gNRvMD_KXL7e3OkyCRXUSXKbLvKbyUGTMdmBv-QLbODABwM3L0g\", http_request_error; e_proxy=\"AcIUe79a3lVxTtVH6QbbuFvk-Pp-Ip7dnvXsfz55d2ubIB0ZFpWY0g18D92G9DYTs4usgG4F55-7ERvw\"; e_fb_binaryversion=\"AcIoLkzXm6qacIjL_O96NaEuOxZV2FEcazyUL7-ExT5PrcTF4JKtgfA6xCFKdacZe25GggSgLGKYtsvd8CScP_LIYaOpCy4trow\"; e_fb_httpversion=\"AcKd71ekhBl8RdwlzZZ7hK9GvaQCS2ZKUczUkQmWWQS9ffaMPVmmniD6Vw4X\"; e_fb_responsebytes=\"AcKkvI6sOaYvvRg_kmwnL_HOdM3FcdXet52T1pCQscXx0o3SKOO4AMi5oe0\"; e_fb_requesttime=\"AcIzVahbwdB7qAqFZ5zRHGNEQ1PU19rpYq9FSkxmzmQelzcaNd65xxSGEKK8M-KLYm9kfwPm9w\"; e_fb_requesthandler=\"AcIV9xjXe4MXyFWLFAoJKerGmWFmO3UOWTNS0fNblpcNTjnbE055zRG15bX6ybLwFdN8mPPb\"; e_fb_hostheader=\"AcJ-fnzNB0qTZ27FLif-Ci0GGcXg6Zwm_PM1rd84sL6cOIkLsVHe6eUwaaIKZtQdIncBPvyG8MHjXA\"; e_fb_requestsequencenumber=\"AcImo69uispXG2yWb7Ndv_qg5jvVOQx5aKnUNiJZNGpdboiEQU4QwmSSbA\"; e_upip=\"AcIf8jyINgsg-OQXoxiCZNa0FO4IlrrQtftr7xClUXaGcUHYQjw2X51DSYq3yPnYqeKNZt_SK0eM38VG9iM3W53zZvRtbRWxPw\"; e_fb_builduser=\"AcIdm3GGvH858bZKawl44UeeMoNJAnm_NwJgtF51oewzFniaNInhWQfCZ87oDLufPmM\"; e_fb_vipport=\"AcIbfIgWmRvpLX1GFJw-NPVgrDm2k_WkEb0vIpS2J3Fz7Gb7Bc8-Y7WY709C\"; e_clientaddr=\"AcLhjHd0O5fVzgXh6RJW34sVTVUFAXMkZW7pzQENxi0evGdYiAGPxVljHVUG8zshaNbkHORPDvFGdpur0Q\"; e_fb_vipaddr=\"AcL3hjQnK3LF8GRWGjm4LgfAzBsuHnxwxzUgL5USuqqP6ZiSAJcZo5JCZOpEx3_2QcJwS8s\"; e_fb_configversion=\"AcKg1gSR9ucgGeWKg31u3iXs77wzLpZzXhrkVQmj6h6yh8csj-lVdHw6Kca3xQ\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=223, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=39, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 178
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:24.117Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640039090073053\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "+6bSO5iWYpsSS3E8kYZF+0sTkPJ087eKcjyDbjXPWgIBmzJGOJwpYywvzkEtO27UCU/dJ+M7MboAypFhWA3NXw==",
+        "date": "Mon, 28 Oct 2024 01:58:23 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=227, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=36, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 322
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:24.149Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640045136124175\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "M6vJ7I2aW8HALfNcrff0FC/LYXzoEQ1InaUw96XrmuxcgqfL7msG2xeZxfpF/NiMbMhyE7mUKC85+WZqmrADfQ==",
+        "date": "Mon, 28 Oct 2024 01:58:24 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=235, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=48, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 299
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:31.492Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640075082093106\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640075082093106\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640075082093106\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "G4LCXOa+w1l5worXQeCRgKuyIvEiPX8wtL3hTgj8XI4iNGrg9KrK43duB/hgHU/fxaE3vcoWfsrjTuogr19hmw==",
+        "date": "Mon, 28 Oct 2024 01:58:31 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcKl8LfDLY_sG8j71h8BfarGWZr-npF8LPl2XHOHTMDd_bcSkk4bjKNsKbpicK4EYlEH_anJtjNCAu2BelY\"; e_fb_binaryversion=\"AcIzeYj2j_tS1zPTOd3jbQGFVEhBB6yMq7WI2jwsmiPYZ1w0QYxh7e6j9o_lMvav6Lp8Vq228z4DnVG0C0Z_1OIN84To5Lb-W30\"; e_fb_httpversion=\"AcIvpIGPq9FGUKTHGhidSPnBLwOiBKREX9E4mq7aYgE7wVvAWBq8FecDNg93\"; e_fb_responsebytes=\"AcL618hOHt24IC7ywU_OovgkfK2d7Retuf4oZNLD0t-qt_yMnijTdLOhwiY\"; e_fb_requesttime=\"AcJqazrlQkvHRCOVo2Wcxe7EocYpx87T0EjAeAYdbAWqSdvUqxQXFaE4yQajyTYcXBUNNRFJUA\"; e_fb_requesthandler=\"AcLIplBTalW-x8KjO11fFBP4-wHWiwSqpAVLzI5p3B1q5mnhfu47TxQ1mSGVboS8T2kfiOvb\"; e_fb_hostheader=\"AcLXIu0NzCnPJp4otffS-Ytb2V0JkPchDO3WGH261FyQcr8iiENCV8EsUNM7tl8Z8a42-cb48gCSiw\"; e_fb_requestsequencenumber=\"AcL1jSjzO7iLSjlj8I4A9gtb09RIDaW56xGsz8efOVWvxHDDOCjcJqKDUWIF\"; e_upip=\"AcJMvk0z7zU-YEt9_Zxc8YwVH6AoQrL26fm2gyTCKSE27Nje1jxlbVS8kmVDMY49Dd-6-AyF8qUIsRPf4EFMpUJOMaSo43eSzTgt\"; e_fb_builduser=\"AcLo5srhWMgAfAMRJzsgsLnxGNeBIEbZ7yiLyWSpZgah-F5k_jf0tMuOdC103vOdRec\"; e_fb_vipport=\"AcKTeXgkMR8lXMIUMOXtVUJBpSVrOL4QHYqNVJ5FtYMp3M913_T4fPF6Iujj\"; e_clientaddr=\"AcIWKGDO55mHYgn7nWpLVmfBkAJZuZ5iHF3fXxbx2Pbi0WgUP0cMrSLV_D9VzG8R8LsMILgX20b61GeKvCXN_BY3sJtWzXpOd8yqmwAufUz8o3cCPw\"; e_fb_vipaddr=\"AcIUz24rc0LdAOdoPwwPjzYnSYImKZ4VQbqj6-8p41nqB5Nwhs1Dal60UapwkD8OBRSd0bO7prE3oh0bbD-9c-hAHQOwRTEt2g\"; e_fb_configversion=\"AcLF6OUXQgl_io0X4jaRxOon86wKSI0tEs30b9VNfd38yxX3GFTFSnrtIflVJA\", http_request_error; e_proxy=\"AcLoFeuJfYsYPKvLSqTz3ajpBy7scQZBAN43XMUCS83fDZklrCNqbPthjcMZgsn2VIFkiiPoR_inJK4l\"; e_fb_binaryversion=\"AcJDfMOstO8UGq39MICBMh282IfwsJgq9nbSGloYhfm46l96A0U9FDEselOW9sEPzGGt_XWdR8vvA0rFEA8NJJbQfWy15RPxacM\"; e_fb_httpversion=\"AcLbKeXs6k68KW_UavtqFX2BpBfAxReKVJtaxAvlvevQczHFPMyKTdqh11js\"; e_fb_responsebytes=\"AcL890c5KSLOZyqKyaVcfRqo8Bd5A3-1FvYGgVYjvzVKVs0IItzu7nrOjNM\"; e_fb_requesttime=\"AcLjyE44g8zwThOaSt1hgNx-OTr8PHSdoULpNxT3maKJiyt_IgD6Y80IaezTH9wSyT1itLEi-Q\"; e_fb_requesthandler=\"AcIrPp5Na_dM32hn7SG-pnCgcsYaswmztOgsYCLbv1sqyHUwMUaflJWBV_bIJH8GBnDUlHQl\"; e_fb_hostheader=\"AcJ55JLNjQ25EUTIJrq3NXYr6hHUwPiRenq-kSNPLVSXVcMu7_UKDeWcq_zg0p3n3MeZcdNqtIwosQ\"; e_fb_requestsequencenumber=\"AcIqT_B5e3LJFYhaRFtB2hpJffotOePMcuHR6d4exEH9wvbKV0jS9X3Oww\"; e_upip=\"AcIHG67U26JRom0awroI6U35oPtaAN5J3zRC5BommuAmRGXCLmfwP9nU7IrzOX--zU9X3mwmtVCJOCo0gS3NuldQiD8ql90aKg\"; e_fb_builduser=\"AcKVNP5et0HC-5dMhgxjKiFkph9Dp2B3c0qdtLt3p4828kMeJRIOsXS6gMDeI7gUHFk\"; e_fb_vipport=\"AcLysODRsnHouoVOr4rmYlz1PakY2-hIZF3-EDafNK5TiLe83tMoLfQqzod8\"; e_clientaddr=\"AcKWw0PZrxcH_fLDC2dVjj_9X_c2ACPr3cXgEFeSc0Z89SAeM8Ir63XviSuN7qwHBZEZNW9-oGqbh8NlUg\"; e_fb_vipaddr=\"AcLsUz6LUWfQiZ6-zqpvM8voGQe7Wbq6Zr2RwpX1rlWR29HnHN1ejfz-LjKBZTvElmkOtes\"; e_fb_configversion=\"AcICiUDF-qkL0fHfY0emYfYgkIoiCa5zuzZzbmlRxhi42qJbb7vrxwl-BFPzNg\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=224, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=40, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 178
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:31.492Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640074838355200\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "po9GJUA0tb7bMHOXf7nPHmQEvkY7Oer1s5C80qquFltvtBbU3LmxPDLNAizMUG6xHULDSAIqjbGrya5q/64QoQ==",
+        "date": "Mon, 28 Oct 2024 01:58:31 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=226, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=36, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 299
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:31.508Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640074999786662\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "tp5Ym2OyW/9UACVWXdUF4XQAKlpDzQuonbHE0xjZvOe5GuPGvWOt4AetFzjbpeXk3DcKcAxO2vf20ceAE6PKfQ==",
+        "date": "Mon, 28 Oct 2024 01:58:31 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=228, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=46, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 322
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:38.680Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640104781975704\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640104781975704\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640104781975704\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "9KjlxurlwuEfY6rmnq8PGT+lcyaJ3/+172XdPoHgI6lcdYi2nG13fj2h4AhSf7ffm4j0oVVbMZm1PJmL64ePmw==",
+        "date": "Mon, 28 Oct 2024 01:58:38 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcK0dPzvtOdNbkLndxrCvERBP-In1I9v2U6vYhAltCh5RmmLpZzjX2NJCRCtvJnWqPWn-nS_BgGLZ502QAGU\"; e_fb_binaryversion=\"AcI28uGbxDQBsxGylP-4VdU4Y765wuAzWYszWKUjzxU8Z_wd7sTnlt-9Nsx8QuBa387NuHtvDPyzTHAdgVn1-RsNQDb-7f38Sfw\"; e_fb_httpversion=\"AcKOocPbvhLqLvN4HZ3S8BcWYoQlbX4topPnuJuI8QcAolvkYTBJLQKUJaEw\"; e_fb_responsebytes=\"AcKs1ELUYUJcTax5a2j8LIIfvKzqtkIJZI0DuUqpuuThO6j3uPnC9EoUmjE\"; e_fb_requesttime=\"AcK0a6zwsu_QVmG9afBDm8d8YKtOd801fa7YiCk0bgpemFksykfFacqY6nKagIElGXsSrOHa3A\"; e_fb_requesthandler=\"AcJBre9mojMPlg5xJnsCCuBWqbZGCwx8RfGw0pRT0-1WCmgnk64IY72pTp4TBk76P6A3GwbC\"; e_fb_hostheader=\"AcJ0iC_pe87laf2HHNWMuftz_X3cqzV2qh9PziE_iqD5Kp4vNmima_Y15AJrWGFn6BRd05Ub9gRHbw\"; e_fb_requestsequencenumber=\"AcJmk2-j622vkzVcT_Q5eSb4cbVrBvUDGEu-EJUE2HZRsl5udPEsV3IlCI4Q\"; e_upip=\"AcKJGPlDx_zLdbqSrc_tH0zDaxPMe6ooOzPgRQaeF7ZTnfZluGGQNEwo9cR5XV7CTSyTJoAGeHCRQaz3NIkavg-znXyZsjl2pCenw0Q\"; e_fb_builduser=\"AcIsLytHhhaQ-nbic0sxMFVyZuLkhQhMDvw8iReZfHMavfvh6slnhaegiv9GtlX2vWs\"; e_fb_vipport=\"AcLSL58vHnMjZUpiGq7LtdqtiMgPQT-hthKE_EaxlihV-dQC0UnHxSaJrqTc\"; e_clientaddr=\"AcJgNELaC_-lmPKKEPh-YDmIvdzUrCnb5gvhHox4A_vHjAiY8QLxafpY_ce3d5lNU2u96Fx53QTnf2mGmipukzwE4SmTLo2iBM08sJ8CpYSNoKPXMw\"; e_fb_vipaddr=\"AcKuKXCrrtTMSpSUOroM00ykVCGzJ8ic-15WdrbJurPrP_xlMylRn7bLspmn7ZOrs30tdK-vT_Zx6hHhVlgA9HX280z47YXpKA\"; e_fb_configversion=\"AcJ6Q4xykFNluBqoRxGLb5WzzsxEszItoT3zmIY2YWABDX2mY3ZH90ahypYb9A\", http_request_error; e_proxy=\"AcJ0qv7TfZtdwZ_VsX-PH7tD5SftKrf_fCKZJ2ArZQg26DwcFv3EEPXuMDBdTyNt1sXsjYvKeGR9-Lo\"; e_fb_binaryversion=\"AcL2bce7hL77s949uFdU4aoSO7Mt3qAWqvv7lNMn5gK3wyNoX5WVJhIuhwqDaBJAqmBM-9P7-VQ2VoGz_mQcLDcLj10G1WeVP7s\"; e_fb_httpversion=\"AcIqYyfGj2HL2fLKAEGd8tu17VhRfzD3ShMIU3LbxpDDTg4TewCVIkX29Vt3\"; e_fb_responsebytes=\"AcJWvE1a8CLjJWSrf9YxFfhbN581WX7ECVxFDXWaDpjKpoFbm72xNnkoEk8\"; e_fb_requesttime=\"AcJ9PlQ4ILkuoyFyRnsW-PJVhpRqkfu47GZpMYD4abQeXoYdD738jALPRnlShRl-YdvsBBfjyA\"; e_fb_requesthandler=\"AcKL49PnoTjW49omPUyhvipZXhB3__oRed-JcP5Slv7w_EnZrMflbepFUoFtmGMEjYeqHfFE\"; e_fb_hostheader=\"AcIlPaYmZXWuzh4MVgckzLwTKjCzUMW7oPzAbuThaq6lY6kJhkCw0zZq1wRcCIE9ilwYe_XyUQ-oFQ\"; e_fb_requestsequencenumber=\"AcKEKZAB9Vj7FcjVFFVoIhvU70FEktDZJeJTIQemY68Aeh4vdWHwV26K5A\"; e_upip=\"AcLzfQfjhNFvEVTOD-bMjY4j9_YUh2w7R79D-vLM6IrWLWQJ-0_yEYZTwqV3_yq3PJ7joJ1tmm2VfB-S-bK_DEvBzo5xbXC3bA\"; e_fb_builduser=\"AcI1KkqY3HQf44gCkbvdW42--FiaDGCrIQksSnkcVe20SvF-1mc94HR65mULmJNVV-M\"; e_fb_vipport=\"AcL0oEVxtcaWD-DNhKc_OSdEu5nuTWY4MYrjUZ6GT44S-KN6ETi-VuOoj24w\"; e_clientaddr=\"AcJTPo0LpSY2Thtd9nqXVXLLlzEqWGO2R2bXSlwuFV997sZISptXL0WjGQTcVUZB5xjoGZ6x9rmIZgEivA\"; e_fb_vipaddr=\"AcJ4-xU9StJTMbddoy35pU9iwKbX7K8KLUoM5seAxyPjkCFUInAfhePrQD3WgUUS0p9-x3k\"; e_fb_configversion=\"AcL_eNTB4qcW4T6UqFWPhuA3icusSiBrwy-UWNCpl7-IXaMfTDK3hStEnZY8mw\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=226, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=39, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:38.696Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640104955985079\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "1Ilp+c2CSvCrZINUzns6rUb18ZANXxC0nnQrL75rcTlP9Ls8TbnjTbt/aQDICxT4WoxClR7izdt5yR6BN/L6aA==",
+        "date": "Mon, 28 Oct 2024 01:58:38 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=228, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=37, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:38.711Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640104554594489\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "splkTc+PB9Llpn4kJH0a27+qGgfCzswINPDDWJlinh/3UzygWdXlox1SYuQEEpT0xcY+rNOo7HAtGG4tCuZy2Q==",
+        "date": "Mon, 28 Oct 2024 01:58:38 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=236, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=37, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:45.961Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640134939193906\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "6pG8Sc9FZAdE7z1rF6HJEWVANoANGuxgO+OrfdZkXWg7/fVmYgJ6ZByAES/oT+rxQipSy3v6Y1sz9d8t2XN0bw==",
+        "date": "Mon, 28 Oct 2024 01:58:45 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=223, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=40, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:45.977Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", coep_report=\"https://www.facebook.com/browser_reporting/coep/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640133938338550\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coep\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640133938338550\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640133938338550\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-embedder-policy-report-only": "require-corp;report-to=\"coep_report\"",
+        "cross-origin-opener-policy": "same-origin-allow-popups;report-to=\"coop_report\"",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "EYXuJgL0/1YhBCaZxVUWg6AzEB0MXK2zqYWWZIAkU/g2fS/rRF5yz3il5f5J0ntfcoOehn0GfKfLa4dQRThAlA==",
+        "date": "Mon, 28 Oct 2024 01:58:45 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcLGjJxQetnZnv3OZHIZVCZAm3TJY_4n1doDhEe6a4-kGzAqjfJ58PTqqBQd16-gfquG4pbeeI57GKrOYArC\"; e_fb_binaryversion=\"AcKmLmmraHOTRWA5Na-YtY7KWfpaquJfZ4Ev1UYwsu5ROoKgkhCbfG5IyQdPyVdGtdAh8-ScmXpTFmWBGtNsJtSO9f--rSTfKMw\"; e_fb_httpversion=\"AcIBZFr3FBxjAkLrquep1fK7zf97QoGAVr1bwix0-JtAKrstpFhIkB0iyXGn\"; e_fb_responsebytes=\"AcL9Yqxrqu5oGMHiCGc1BN2hXySKUNBLcC1YInjHYFqC5JpfhptbHU6PEMQ\"; e_fb_requesttime=\"AcLAjfQ6obPJ2SJOrecMAR2tg3vc0_otRqsFR2pc8Ty54Afos2x289oouLTtX99DGv2JvmRWFw\"; e_fb_requesthandler=\"AcKru0fF9vu-hVf0DpFkLrtzJLUTUEC3xlatw9eHOuUjVhswL8UaASSFwnFMOAPnaSareFxa\"; e_fb_hostheader=\"AcJrZTDnaVGFl-z4oDj0uScB_1I2jgecE3S9LXKEzyMGFI3vCahotH4BQUfopWwrwjd8fkeaOwXNzA\"; e_fb_requestsequencenumber=\"AcLX7gsD3fJGcqMQsDA6hW5S0LzNpN7QoAhw8JK7ulKvzsHYFNosEfyzLlHf\"; e_upip=\"AcJzUldI3M9SHzAqVy_4avIMHj9v8IMVnufqCbEmzH4ElnSLHd0mcRByeq0ELjSo0RDzeQv2Y0cDevJTEO1rucn7zBWSbOuh99qtQQ\"; e_fb_builduser=\"AcKNxR0bln7ed010xZfm_isTLu4N-MHT29l8RaMCIo3FGLos4lFjXshiwR33dJbUlLI\"; e_fb_vipport=\"AcJWLZmZFZijy8yvhrs1PsQeorGvLWV5vhLYiLzKbyzff1O2wm4D0Y7syZEg\"; e_clientaddr=\"AcLl3qRWDaIY7nl842O1eXSimFDj4Jpl6XPH_L-LogPqN5hioaGHTYL-TApY3t7vJHGHLPPQrLP6ULp8wqSklXqGxhJ7f6Zs8kBoPzcPwTt3wh4\"; e_fb_vipaddr=\"AcJFp_EXMD12YlSf6j4v84R5V5a-7AJV4vMmt8k22mvHNMsjU3hoABlDjgJpgnHBOzpZWhsDVQP_W5H2-pOBpDA4AY7E5F62Ng\"; e_fb_configversion=\"AcJXIIL5_8V2-ScwBZEdKsKRscQI-bYt_6J2brkyo7843OJj_2wFN0aae8oORw\", http_request_error; e_proxy=\"AcLowquHLK3gwhW-Of3FaSif9f5ilPWRXggTaMUp9DBjDV8F-i8Pu4C3bpFC41DHn-hq8ICHhjpFf0c\"; e_fb_binaryversion=\"AcLw6ZT9GIhK8M1708zBGjlZu3tXSYTp46V7_aj1AxnrSOzIWgCLE33JWgfDo2O3m74Dy_ory8Ta2Wf8fjN3llx25bqZ8r3kaq4\"; e_fb_httpversion=\"AcLhuy0AKRhKpNoOz5yITNBRtaIM86VssDcbvFaNEFa1XXsXp32ep5khzAqw\"; e_fb_responsebytes=\"AcIwT-b1ZohKBu3sl37bZCrtILR3_eQQoOjQ9gnEypYtOeY6uVzFwsbrrTI\"; e_fb_requesttime=\"AcJ4v3v0W2JTTmtMLYjQv2dYOhKqaeiHn1v4kTknDaDnBynyCIZGNBxyzfy9A2f8SJeHKxXGSA\"; e_fb_requesthandler=\"AcI2Rq8fWnxd0lyXhBT-IjKEurXcYaAulHt6HKtLZjiVTuiRHXUW1Fx_fLph0pf945v8GMnw\"; e_fb_hostheader=\"AcLtpeRPWYvHDbPQHJtIguP1sqkd1M-WotTWbSksaBKCDb9wmEmE3ycQxHEGZxr_zOzMtQwWwcNTnQ\"; e_fb_requestsequencenumber=\"AcJC-McXqy-U0QehzLp2asYZSdinZq0XUoot0bxTE9P0xB4w0qnIwK01iw\"; e_upip=\"AcI4y_oHG5yn_c_E-ex2dVefQqSzKjtlV7VfXHVeya27YcAdjb_lhSgiO-69uWddbQMjTEqJUXUQFaKbv-M8C1SCZu4e0NksQg\"; e_fb_builduser=\"AcJd2EsfoI59h0Y6ftaysIKPHjbF6CGS9s5-qlZCroxzzzogVSKe2mPh36GEssKgUzY\"; e_fb_vipport=\"AcJGzywpDseUJQKlukrRgfE6CBSSHukiinOtKPFNejH1fM-aITgksxHUri6g\"; e_clientaddr=\"AcLP45jc4c_CTMWuPpigZ2_ykftdUq8RKpAPiCITuxS5-6y_7Clqp9iWmhXahMK_VUC4oLSbbzQmB845ig\"; e_fb_vipaddr=\"AcLYhEGmdPln2Vo-ArnU9lFruHppyJWXXaubN8dPf-ZteS0T05SA_QrHNaUJCa0pLLy3948\"; e_fb_configversion=\"AcLvswpi2V6HOzkQ1694QQukYIqsZrFEEhuU8tVxcNjIn2noJqJ8cpeFh9msvA\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=225, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=50, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:46.039Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640135323209591\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "5rleSH/p8KSGRFOzPGxLNQEOXN3aLaky/ft12OOIzATVKxx8B9HjC2Wuvrw1Vd25q5/tttw4v4NxMn6z4S2SDg==",
+        "date": "Mon, 28 Oct 2024 01:58:45 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=249, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=37, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:53.242Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640167769588149\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640167769588149\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640167769588149\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "LCORa7E4PFUbjXyUfaXGiVdw9IjhIl8RehTzWjT6B6Zh6Q3jOdAOaTx3sPqVN5+JccXLOs4HqdDrUJ9alFv6Fw==",
+        "date": "Mon, 28 Oct 2024 01:58:53 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcJ969kGvKnirnQ4ELhYh6kXvFPrCVBnicNcTg1klFk_OmZqVG5X8-TzoxWKhfyyfeVdtb-bdmvi_BH0JAgx\"; e_fb_binaryversion=\"AcLhoN0IZ1eNFRIsaQC9CDm6pcGDh4jPcGxHS-LhoA82G5W8vN9ziXqbfufCvhPfUjcvQfWdQVQ7Bglw-DhrpBFrWq5nPvT_WsA\"; e_fb_httpversion=\"AcKSnOdgAhsTUuk4pj-6vBE2H5RSSqD2EuTpdAuRJuHRoLygU0-WJi9IaoRP\"; e_fb_responsebytes=\"AcISqpubaiSQn_XCiYtgfziF4-PM1zDxpxdgD4BgyDjEv7wE1112f1ythr0\"; e_fb_requesttime=\"AcLDw5KC2xO3q4bGpDhOPvd3ZG5brEYtcNjGn7nLlyOhwaBgR_SuhCoPKwSrSe78hquzhq2duA\"; e_fb_requesthandler=\"AcKsyF89xowAHLtS0ulRjUgtOEn2TDREtQTnckMH7xK4FV_MJhKt7JCEc_sZnV51YtMBlK2S\"; e_fb_hostheader=\"AcKbxRe47cneCac9G2f8OBk3JZ5-IZ93U9GgYd16ku1-cPPmlFddPR-dWMi9HXugc0VBSvYBjMd-hw\"; e_fb_requestsequencenumber=\"AcLsWc2cZsN4lV-EOwCV8DMFpe4U-cZFQCvWbHfoGtoRz4GSPUgcS6qOJIZS\"; e_upip=\"AcL9lwT2zuHXrRUzTOtoRRj_03bfJNV4HJjrI2WFJT8y6dlxOKA1uexpMQIT7Jrkf_7lqyABCw_j2brn4Jjby_6ZZMZi7ZDzcEVEpgI\"; e_fb_builduser=\"AcJ1o3IZIoZneEsQ_dUrm5yGlCsWRZ5UyYjAxcldTcwBvf1FNKT1_MykTfdqSQ5OX-E\"; e_fb_vipport=\"AcIhtZChyRvYaNI_ihrzlp3QkE_JHCoDbeCf5X82vjzQ8hWenSsHFx4A32bi\"; e_clientaddr=\"AcI6a94q8bHIqp72-KSxTT1rnxWDdFkS9V4RyfLlykrc41SXxuskVIveGZiWTWss0r3cWWNFOuDf0wFqkpmEFLr7DI5FkL0nFNXqMW2Vt2c6zIBSvw\"; e_fb_vipaddr=\"AcLlHGM5LSGvQDiZmd30Ean46egtwhfHbaYXuUC_J11DBgq0PNM12M3wT_J4mvYX56xTvn0PZHQzPG1kJ-RWv1AxTGybNbg87Q\"; e_fb_configversion=\"AcKZjFIkhLrn-ywsBK6rZF2wdrFsdndCksoIp23VBgh2fFwad-NTgpwfze4aJQ\", http_request_error; e_proxy=\"AcKdsVpWYTA33NmqpJzeoRrmspNpGlG4BdwTSXYSfJGd-z7L2SfazTAx_EhJ03xChpWEpxNYKzibvv1Q\"; e_fb_binaryversion=\"AcJNoKu-SGRp9yCq31xk3S3v6BSr_n6yF3J1fveTszrrP53t46alLbWGc2XGpx0FtiH_ZdO8-5iIor6XBhKYie_zSlteJIws8xE\"; e_fb_httpversion=\"AcKHKXcF4gw7WnPLovkRCxaQvwBjOrqsmH7L1qpa8hEsUNm1vDGHjqb-GVjI\"; e_fb_responsebytes=\"AcJembljfs5saq5UyGmCs-Tr2Iox8tzhL4SUVcjfxOsxu_nhsQryQblRkvk\"; e_fb_requesttime=\"AcLGLHtlgexKxxuX5EahZYdhCyS05rlnQJQ6bm2FZ_whCn5hGNdfg0mRC_DwOYzyXQNT7b3hRA\"; e_fb_requesthandler=\"AcJMgkZm6-KZk6yZRvBUBRml7DdDSO3g2YVJnGNzYq5uq5LlybmxI_tNn7PQIiM1tQL9YJrT\"; e_fb_hostheader=\"AcIIr_fDaJKLOf9_TlFO59G782QVLLrNi97GPjfMC6eHbeGvAnqTWc_GtGHjtBW2J0XITi0-nNOVwA\"; e_fb_requestsequencenumber=\"AcIbYyEHbcI2ThlzVn2fd-9qy96xR4QGJrHda6WerHMYnRcOno7H-M97BQ\"; e_upip=\"AcJq0Ni4DPJVrgTwwdTzpeNlOjcsGy0egmKhIB97HpDGpNWzKytDkqJRZFl-aui6L7ISxLS_b19WiS3q2KAHx-mxKlWjKo4v2A\"; e_fb_builduser=\"AcJ2Z_tAJwqEeWFvlHNHUeF3yIbzKgvoAibCCnhbHcT8GQ8LDOACJ-EijAcaOp9L0iA\"; e_fb_vipport=\"AcL4t5QBrzXA4oMkkohUZKeOrKLV7msCwqNUEbJ_63YeR7vfa86oLsFp-STn\"; e_clientaddr=\"AcJWvIJcq6sz8OBpqVjz350HqpK44yCSjOwLx-AiFZPS6KAVCqF_w2qNMXwAZEUZa8JXdczJNOzed3RtcQ\"; e_fb_vipaddr=\"AcI_BmFel6DCmDl5_Bh0dRF0NQkhJr0wNL4fcTRJO2EyJj4WWJJEdxm7cO7XwjgCh-rOtog\"; e_fb_configversion=\"AcLPrxOX4MmhOBP1-C-tX9Tar2Ndj2vQnMcT3sKNRseZxtQJSeUBqFWnDhJPDA\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=224, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=39, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:53.304Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640167988384838\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "oc1PHw4uhNE+5wo3REVJwwZQMyMEdkieZhxAmdxgTCTED7wjjIUGFBcOLYK25pdEiT9qo1qvS1FFWAgAFyn30A==",
+        "date": "Mon, 28 Oct 2024 01:58:53 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=226, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=37, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:58:53.304Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640168076538424\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "8aFN7TAPx2JFvfUwS/gObI0kLZzlp6BJQ1pIuogKjfmOHXPLJSU4veIOKhsYMyyiRQBrmKn6205M0oB5mu5P8A==",
+        "date": "Mon, 28 Oct 2024 01:58:53 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=237, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=36, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:00.679Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640199005438690\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "HrIQqPPiT+7c8vNILfvOsl/zHF4iffCy1jvdUFsHUYu1yEb3JRoNK+88xGo5pQCWOQ7y6EP45vs9FTkhMwwhbQ==",
+        "date": "Mon, 28 Oct 2024 01:59:00 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=225, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=38, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:00.679Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640199825791328\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640199825791328\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640199825791328\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "mIfSTB1tqKdeKUnF7rk9Abv7Axsufy4WQzPT9mtsNtPABdWR3gD8wlbe8xinFHzA1L1HYtxfJNiTiXij8djZ2Q==",
+        "date": "Mon, 28 Oct 2024 01:59:00 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcKe7L7xRkWfkqfoIlwLd_MrZVv-rsSTrquHI_aHsQZQ1X-CsBa1v5efgyknp_Xz3F_SOqAjHJ0foqXjZplR\"; e_fb_binaryversion=\"AcKBbvxazaebEEIxbCs8JlL4T7q-YwHEmEWv68zMToKAhncr5K0bYw06xoNaYQHJmBJMzzCe5E-Q6qrbT26nmSc5-cxk1DnSSRM\"; e_fb_httpversion=\"AcIJvNsqEn8MKZ-5tj_O0i6JSRzwEL8v8gf4r64BqIBzvL9XSyZP9wFmc0Qf\"; e_fb_responsebytes=\"AcLg4Ou0nxon6iXwFllPZzOinYCTIcoELtFdCCh2lwQjBn8mcnCJ5IV7ab4\"; e_fb_requesttime=\"AcJ6VOP7QGugG5AyafK5n8jM-ZVCzo9-K-AehjSr41_bGojuWiYZhgtNq9e2o5qXUpYu15FzBg\"; e_fb_requesthandler=\"AcKPvYF-Tw6FtFMymh-4Dqv0Lm0soampevaRHF-nWwrDOdneCttLCyxmLIWQzAtiiFS2Qhcx\"; e_fb_hostheader=\"AcLWX1_cFMiV_yAKgu3UisMOOAn0cxFSNhHni1vo1OJFrdVVe3Z3DUzmdjfMJKlvi2agXVPoQ67o5w\"; e_fb_requestsequencenumber=\"AcL-yPpNoXHMV76Sp-AjTNd1TqM43rz1keNhygxZzrIFZ_JRGEAhVSP0Uq94\"; e_upip=\"AcKqi2LIrisV4AfdMHTMkRgb-yh-Cch_KQbNSqFMGKuDoQDFs09jeX6yD7zmTGBF8-caY5PD7ec7_XP-iNkt1wBns3slc1hIkBsf\"; e_fb_builduser=\"AcIf1w5jBb3qHeQvfW9LhKGjw-_2UFjGaxkylHlsoS3fe-KatBZuNX7lMuAzHb_xCd4\"; e_fb_vipport=\"AcJ3glkOnISxFFY9iuUIJfRqgDfXJ3i87AKr1QP8V13qUtpgLs4m9f7eKXUQ\"; e_clientaddr=\"AcLUGNVjTwaQ4K4FWT_uhVhp89I_R6K61iyAxeV0rhCJ-JHW46u4gzexoRorDfQXQ8sJEvQPc5klHxPKHeSwZ2FXAkXYFfhBznx400pfrvsnMsrFOw\"; e_fb_vipaddr=\"AcIiuKAERzGkpYhDOaYveqpyDyAwKKvWhUhdvBAwIgk87lAbogokXnB_17Mty8E-6NxsfwHRxwumFt1Ph7kRpxyFoQGdEiytjg\"; e_fb_configversion=\"AcIp2gRNk7nsMyTsj6NjaxEBObETMArAzYkaCJbFpzKSfXH9GT0o7uEoMWbk6g\", http_request_error; e_proxy=\"AcI7jpdZhkLmMAIgX1fDpS7s5HiXwc0C7W7bG5YP-gmVhG7-uQVGjHCGYK_IUT8NeioNdjR2T-7LH3Sp\"; e_fb_binaryversion=\"AcKoEkDI32JZLgjr9C4b3MIMddk7Ae_UJ7Mb4aZ26ajYeLYcXWsSbHX3q6QfTAJncgXZ9RNL8Q01FofOlzvyeg0hwBfkGtMdZv8\"; e_fb_httpversion=\"AcLiYR0OG-hLoSSENjfSP-t65s6AJHkqKeVp8vUyQDAj5hqM5eVXK_k-EoR-\"; e_fb_responsebytes=\"AcLs73MKKvAqUzJjv2Y7wYoo3RiqqGEQNqJdThXZ8jEDXURIoImshkPNVf0\"; e_fb_requesttime=\"AcJ5eBvvEFuq3xogKpWyqdpkj8cFyXxlcUzwtBwnIK_5LUxOrqxdO_mbLeldi95nFBMoUrl3dQ\"; e_fb_requesthandler=\"AcL9BvfunjM69nnW5AcP5ca8vG-pFaPhref5jQdww28ISjKPO5zQQtpyupUAPSJW5mJZBIDh\"; e_fb_hostheader=\"AcK0a5QXvLv-RbGXjaOZN3u2SDst12HUoZryMd0Uj-QWosbrNqkWZhjfdMVOJMwl2gLhLvAxoE12jw\"; e_fb_requestsequencenumber=\"AcK92xhEqjJl8n28pEBO1bcg-40egb57eqz_BkEHFM4m1ZmsbMehViOonA\"; e_upip=\"AcK1nAbGwTetV2W_TAbouWUK04Fjcw9MtL5aB2bBE5rNM1uY080xSGFly49UvCzVo83fEASLCk8qU5K0XNfvsgfk-vSz3zlWeg\"; e_fb_builduser=\"AcKJoGCoG-_P-70cyN5hUNlJW6MxNAqeYpSTA94ak0GuNUfX40J6GDd5nM9_cVOGiJs\"; e_fb_vipport=\"AcJYDtDNDGX5tOORHR9N51d5lD58r3TDnDM83efVmZIs2DUdnWIb2in5Iwe0\"; e_clientaddr=\"AcIr5XtnSsWh2iImB0K6crsdj37uUajx-IO3tGZPvO2QTygrfZ-sM_nuhp-q0n42BRN1Ot1D1Zg8r1efaw\"; e_fb_vipaddr=\"AcLcwrzSbGvw-Kt01peBUb9_fBL-HS6CIUnP2KcctZDExS2YoQfcGgErfuhJ696XFhMamio\"; e_fb_configversion=\"AcKSagUv6irFT3s6wEyZy33t1LiIxhpHDEd4ssO5eu12dfswnFOnkHE1ufSMUg\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=227, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=40, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:00.711Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640197832748320\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "bgt6k+hmlJBPhAdu3Uo+UUkCh7Dgpczx70IcmQ59gA7/EJ0MkRlMQRpeupJFgx5N3SCdc+UWoZmNMP0Jo+16BA==",
+        "date": "Mon, 28 Oct 2024 01:59:00 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=237, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=37, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:07.977Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640228616119832\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640228616119832\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640228616119832\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "50xlOewBc53TEluqQs5SoN3adK2Ja7NFEQS5kfXNqgfKrDb2vryC0oQA+sm785EsTFFOZ5AoZb6hTrk0fOCR4Q==",
+        "date": "Mon, 28 Oct 2024 01:59:07 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcJw7qbebMCU9avKwDWGbSaV-PTIdYExj9QpBoRQhTyEylP4NqnrtxQu-CpXvfV_o6UfZbbX61h2a85b48_d\"; e_fb_binaryversion=\"AcLLkbhG_Yp98IrunFtecSTknDvDCJNzb1fAn8WUxdWEIQjLOqWlcnEMa04xX7qeYARIZJe0lx7-pmTTeEI4IOLLueJGszu3pds\"; e_fb_httpversion=\"AcJ4f4zV_odMQHpNTWdnJ1GRJLEaNRBpE-BEDo9bAB_glX9wHavodsGYlfX5\"; e_fb_responsebytes=\"AcJ2Xf4npSWesDNEUzKP9bdi9SKv3Jc7uuX1dzYgi0NxHHldN4ENHl55q-I\"; e_fb_requesttime=\"AcJkvp70THDdT8HFiO1v2lufqx8YNm_XAHVR6CXx-ckUGBd0ZrSxQLy56DrbVTZK-igvWmbSIw\"; e_fb_requesthandler=\"AcLmsN5lb0IYDP7YjcHPocm3PLJJHZeaa5WBvCdJ-yGY_9qy_RqkB0OZr2u0ytPzyCGlyuhb\"; e_fb_hostheader=\"AcL_8xIvH71A7ZOFoxAkNw1K0aXLzpYFaMIzOgpMOruchN8iRdKg_pT2_yLAmXxGXkM1eetpBLMasw\"; e_fb_requestsequencenumber=\"AcJQ8XKJzy18PrNJ4mSvBb_lsE6sAVaVDGa1GmhvYzSslmIQ6-rwl2TfOzc\"; e_upip=\"AcIYQvuVanIqT9lem8VpVWo6EIP8VdIDoDURcoAo6e2yeeKoDqgJ0Qv90aZ3p_b_v8mwmLRVy6BH_8wL-jERvRHx4rfY4mvZJxYn-w\"; e_fb_builduser=\"AcKDl-Q0W6nXv01onYahiEW0mN0wpl3pkB2qDjFrfYdbnBtOZXTA2jCk6Dlh0V8S3Ls\"; e_fb_vipport=\"AcLaxQ6dpQ16tS7Irx7QtZWG3CbLSX1eNUscR3c23VZlxxqtZd1oTEpc4Vsk\"; e_clientaddr=\"AcI-hVkt5wHqdCXzoqyiH24R-GAugP8YuERU4vTCPDquYYRCF8sP0_2dOXJzrIsSgSZFhh8BRB5SOGxwQLgCxbL7vhZLp79lZ5wjuscDN5TSUnDHzw\"; e_fb_vipaddr=\"AcKfBoozdJtLU2R1y8Nd-QEPVYkGomkcVReDBPT1K5aNWRllWGoseBqLOgfH3Jfp31x71EDs0TTTNHeXwGpeN5fsAgFhXBxnXA\"; e_fb_configversion=\"AcLhK8jL4KmHKIo70Lb2mzS7KhLGG2OwmNWtVse2tWhGQVag0YepFI2noghm7g\", http_request_error; e_proxy=\"AcK6QCZ-2msVttJ2q-c3x5nCir_9M6ixGMZ6otO3basYmE8Ku_UmWJtKosUXNHKXEQbBP6-VfYeVQxbw\"; e_fb_binaryversion=\"AcIj8l4NY4YDspXJoD4luszki3XEhQk5LXjAahOjDilfoFJgJAgXUjfHaqaMPhlz1nykgtEvuIjcKRhpVyiYHHgqOv1SEO3aZNU\"; e_fb_httpversion=\"AcJUg_DAMsmmV8PWERAnLqrj7uNgDgwTVtHRHsoougYV749jA5OmIs0J5du_\"; e_fb_responsebytes=\"AcJ13OhB5KEi2JtBqKK-_gQ0CKq7lzMugBxB0EaBcIPwYEg608miV6xTUpc\"; e_fb_requesttime=\"AcICaHS4VykY6tSf-5aAbU0azNFpviEYska5DDC2QSpc4_MF8NbspPcMvZj5Em89khd2TgQt7Q\"; e_fb_requesthandler=\"AcI7tceVSGWYhJfzZUbUdJvgWTnuqQVQ4iJ25-bOe-HWT8Hk9uK05c1ZJyOZOyvLn-Mfu0md\"; e_fb_hostheader=\"AcJMqLlOOt9M1_8UV0Bepz-vBWd-OEvb3U4lY1xssk2yUK-y4V2YRXLF0AcBelPWncMIAAatc5IN8g\"; e_fb_requestsequencenumber=\"AcKGx-8Az-xJdh-czx3okaQVo3mTX9cCslaVHhvYjwXI7xToVTT845Q7lw\"; e_upip=\"AcJlRRpaahtxjAqru7T1MmyNmkzrSO2jXHcwR4bU5yXYenzrtHth70t5NLuQ4N-zYSrBW1e7MvP5np8eY5Qf0JrUQNVPtPyErQ\"; e_fb_builduser=\"AcIgaSLKE9Yy0egpgErCJaCr6W6qhMh6UbMJ9FwJzomUC6Qrg1h47GXPIe4c8ZuIB7s\"; e_fb_vipport=\"AcLT6dbAjELUBeP7SXJpTCGS2eH-wAL9zpdC-UkgVkaAUETFmgp4KpciC8bX\"; e_clientaddr=\"AcKDn3QrYmtlMvIakp7f_7OuOOmos3aXLoaOegA6a_YnifB3q1q3aRHJ5yulc5tPaMpOiXulFSz6tPvbfQ\"; e_fb_vipaddr=\"AcIcG4GyUCMxZYBLOt2XUsH6XF19CMUndtqCsoQNCCrtPEX5AHg8rM2wVWYZLpCCrDQnhis\"; e_fb_configversion=\"AcIEd3bOJF7_fLY0dbmUaCMGYpOOj4SPjFqlKqpZc24iwZftoOKMajma2A8Mzg\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=223, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=41, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:07.992Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640228522447533\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "i4EuZllyXfvGmcxClGrl9z+AmWxEFgqENfhPnPuFTAnscJrdJyjKFwFpt1MCs/pW5igBTV6eqhAxZntWdqfpAg==",
+        "date": "Mon, 28 Oct 2024 01:59:07 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=228, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=38, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:08.070Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640228628442148\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "koJP+58aUEkoymGDvXFuxMgANQEuiUTC2iWlmoxGX4Lfg2fB9lIzrKYzTJTHqqPy1tq7mZFdBQMp6Bx2tFgnag==",
+        "date": "Mon, 28 Oct 2024 01:59:07 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=249, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=36, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:15.336Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640264113199849\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "RhEskZcMRaiH6v/nbZWzH63b7eVcdHwQxf5dR+gpjbdfHBcqU1OpTrcOvH8k+UkT5ZCVlvEyDltyPPIl/AIdgQ==",
+        "date": "Mon, 28 Oct 2024 01:59:15 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=223, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=38, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:15.336Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640263703465804\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640263703465804\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640263703465804\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "tmqyJbX14XXZ94/5EPhf1kmmM2P4twZivsP6a8K9KdsC24RErzKVP6sA7GkVxOYvktEOlalbBbV+QZ3evGS+hQ==",
+        "date": "Mon, 28 Oct 2024 01:59:15 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcIPpiVhss3laUc3kxwvvoK5yJ6YipuVW0a7fJZ1FRgSQxneG1qH8rLmDkMWajpKjLyZBDcRgfe77QWBB30\"; e_fb_binaryversion=\"AcJb2jBppAKNSOOWsET4KZ0wYL2ZXO6KbVg7-uVSl04UCjqYTTC-EKB7f-TvbRhUBLXuIkKM7F3byF2TxcHGDGPyd5y9w_XxFPA\"; e_fb_httpversion=\"AcJDJHOZl5lz7auClRA4jNqbqRGfHzELqJJI_U6Y2bptREcYeTV0NMJt_5BQ\"; e_fb_responsebytes=\"AcL9N4DpPGGb05y-5TGkn1NmaLyhZr-YCGmgEG6P7AqPSjDNzlE_YHIwzeA\"; e_fb_requesttime=\"AcJPJDaJKE28fjk1o-Zt5vi_VvJD7Ric97TTEGqAmDWwAUcahhlXM647-1b7rnjPRJMZHY_Nsg\"; e_fb_requesthandler=\"AcIRmLHR5dj-JVEZMutda01kz7fvhVcoiYzBze8c8Yin96_NNg6jrfFPGtICXcQeU9TIJ6jf\"; e_fb_hostheader=\"AcJoG7vSe3bn6pILjmlYTP9PgBepf2S16kvuRddNevc29M1m6t6rN-hVVJ3L5ZtejvFvx0cyKYWJPw\"; e_fb_requestsequencenumber=\"AcJ9rXqEgpmC7j-M0LjPN2B5OJ06UfT3ys_JDWICSkTwR3XWQrqKb6h_jeKW\"; e_upip=\"AcLX8SgTTSa0yY6X4iA5y2Ei1EzuWiVJqE3trPdfjXoiGQ_NokHaoZITyxEQ9lK-S4EutQQ8f0ms2aTH7ptsT0-5MyXFTyyii5nKyg\"; e_fb_builduser=\"AcKKx_RFacNS3q80oJTiTVqJWz6krm5skihHcsB8O-KTX5ZmNgomS_c-LqqbbGPIW_M\"; e_fb_vipport=\"AcKO54Bxmk9jODZwmprfKVnHMTmC3COugvGcqpI73W08gM0nTtkKGV_yWQ7C\"; e_clientaddr=\"AcIUBCHsYW6phhXaEjW5Brc_AHQ30n7z9Ct_1UNmbweiO5UdF0ydVFu5zMwcq_T32m80lxtq3zpg9SDRRAQ3fcLQ3TjZkrENuvxa-AsDkxiPJLJ48g\"; e_fb_vipaddr=\"AcLufdV7180KbXy17MixzzckxCHU4fAMsSOSnzKk5SQ8TaR5Zficfe0bWdr_12SfSO7vzilxV3rMsLYCtumsLmi7s32XcNipQg\"; e_fb_configversion=\"AcIAo70NVUNfLDZYo84sKy61-VY9dopWGNbUlXk4ZpympRS4EGfvp1DMB7kjkg\", http_request_error; e_proxy=\"AcIffW9iCPBsxK8FU72FjwCdq4-erjzV7n0eI1jsxhH7bZCcIMRMyvY_WdBuUS8Ta-Qv7R93XWOsPMQy\"; e_fb_binaryversion=\"AcKmtSx89ZZYuTbxBl6_ztSFLAg9MIAYBXuDwI_dc0j21lEFDqUMDCxNmTwyHX59S7XIYfmmizkr-zK4FyIj3zW99qz-0STmyOw\"; e_fb_httpversion=\"AcIn3O8XY2uJiHIlC9dpLdo5aBzLcqU_9iwDpRBGGeiPo1cJyTzR54hXypWm\"; e_fb_responsebytes=\"AcKi8_j5_fsagFFJbsOhg-rpCIbrIGvSscI9D9PNrVAYVt68NmAAh_9sqUk\"; e_fb_requesttime=\"AcI3k7SJA4HYT0uQ2FR_XpGipcjKihd0MSEOqBG3Ea-mVvaPQz7PdloLjziEyHk3XsePelIJTA\"; e_fb_requesthandler=\"AcLs6CilBRIT-RPF6PmLn1sH8yt05Pz0dMmpHDhvAvX_Apllxgvwb6_Ww5t9UMYj6DIAS6gC\"; e_fb_hostheader=\"AcJhlBaqdmw0EHtX6a6VMVa0AjBlJ9HaaOPbqFT7ha6NTtEI7DajuSZub33YIRyY4VNC9oJjUPTyhw\"; e_fb_requestsequencenumber=\"AcIuJDurqjFwhWXUfvhQJcXf7X3OK-ANuGEnWUKKdsQm12r2IvXmsOop2Q\"; e_upip=\"AcJv8FjuifCCR7wzUN19DQS594bNNgXxWqozoXPwAD2dd-FK5EYjmLKDrnU0FVzHSny4ECK-c1t3bXRcO80K4es5hIoJRmJ2-A\"; e_fb_builduser=\"AcIPznjdqsX_OcjGLyoL0yLOV21S2WCyB3BlRDJHb5bzYXLpJwOlugdhzQcjsbp1CYc\"; e_fb_vipport=\"AcKFaUdhiaE8Hwea2AKYx3VLxYOnK2-WlrQF1u-3Z-faQzdpNniBDT400KBs\"; e_clientaddr=\"AcL7h9sDkl7Q7l_oozcDf75eYIXwWz0mTGuxATa_POnbcPms1tVVbW6vs72OqTnAS2-4m1_mpAmX3FyopQ\"; e_fb_vipaddr=\"AcKnzwbSMH6upkDLogNhkmSlDDMBGrOFVVabAMRQcn8Gckbk2lFBXjEWciuQCp_B7cH261g\"; e_fb_configversion=\"AcICclsaFWhtlBL7yIXpGH6O3Q99_Vk2c26AxNVqxKvQD7ABN8Ts9XxP2Ja6dg\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=225, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=36, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:15.352Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640262904718727\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "IB7/letg0Nv/r0e7SSZQ4M+imuNFPixfvieCkp16bwXur4fzr/ezBvy8NK3FdpvYSr05Oy5aaZ3qEamjYCj5QQ==",
+        "date": "Mon, 28 Oct 2024 01:59:15 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=227, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=36, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:22.648Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640292447915451\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "k9h69h/n/1Az73dAi5Q/ILtQh1SLSA9Aa5K04pvYtWU1aD/930P88HzMOMt18b4x5nR4of/nkp+oRWL7aXVEOA==",
+        "date": "Mon, 28 Oct 2024 01:59:22 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=226, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=39, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:22.680Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640292843253032\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "vBxRHrpBBl63Pa9Zkgcm+F7jsvVVK6yqVNSXYLT7Zuv1LYVsPOz2conrHn7FVmHdQFC/S8d72jSccZNEHJ5Tjw==",
+        "date": "Mon, 28 Oct 2024 01:59:22 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=234, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=39, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:22.680Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640292951079137\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640292951079137\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640292951079137\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "TmLS6xIPvd4bBmHlnH2ryf64uyVelBU2BkCEHsU1RxlOetB3533OsOS3vd9t2XraV6Auhkw1J4Dc3J65nqzfiA==",
+        "date": "Mon, 28 Oct 2024 01:59:22 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcIie_bIH9CcXIWsn19_K0OHukC39h-U7FHt3nGal4L_0Df_A4pIT5Ep6QzUOiHhKhpb6XXWmpGyGGu7kqNc\"; e_fb_binaryversion=\"AcIJ8cAW_KvppAH99--p3DhmSAS3UGTAdXEA5EoNv4v3Xexz7hUwJSQMhJOdniu5NUTWEIRJBTHWoa_NN9b-4J3Dpcw1GDwhyC0\"; e_fb_httpversion=\"AcLAzg3M6_bLxx5R523H_TPUMUDBh1x9Qy_hgWbeRLSZHCozR7ZeRjT5bwLE\"; e_fb_responsebytes=\"AcKQx2R2IwIRno84EFggkOGYjx1TpDICCOnkXJlpmB_cmgCvIQ00TMgfMTE\"; e_fb_requesttime=\"AcKecg0P69CPN5aZ_JsxANpAN_fR_10PKOLop0WrO-Ja_QorcJWPqFLnaXHdA6uuS3rq28xLhQ\"; e_fb_requesthandler=\"AcLHFKzFaKzBrDEpLhftfhUt8rPKN2caQkk4e_xH7Q2W9E0YZwVmCbJ6t35zOafwD1uLKoW1\"; e_fb_hostheader=\"AcIV62bP2sX2zh0-APiSqRXtm0h4vAajqlTVeP6Ua9tCYI8S9Gi_34o95UEhbyWAvrSmt-kmSLuC5Q\"; e_fb_requestsequencenumber=\"AcI1e-rFf9qP155WxEOIYx1e8EVd1sLZWCb3Fc4wsw9NFa6bX-qkG-J58a8\"; e_upip=\"AcJS74B9GMdXQtfMm_0QVPKL0ZdZOOzECjfrOEw0rcuJEfIH5YLX8szezdaAR3uH2jurPv3TV6e7DEjvCPzEeEWJZL8dlzZrHRCB\"; e_fb_builduser=\"AcKaCRdCPcVGC-pTAe3VtAq4fgsTaHe0fRWh8ZgFSwDl_AyAwY71WfRAOsuPJVSpoag\"; e_fb_vipport=\"AcJBd93dTYFxP_hsGrl-Kd1d1OeUZX8sElHc4-b1xKMybmmIl2qco2jsAAG2\"; e_clientaddr=\"AcLFCvQlty3KuQE7xyVQQzcNbk6rxJgRXopehnyVKtHVJcq1BzmATWCk2EKPZl0vHURtjlNYW9cmRaCElkLSI4isbqUcVP1hYTyvWp5m_JS6Qzlxow\"; e_fb_vipaddr=\"AcIJaVw45m5Se7Mq7J0LlX89pcHjPr23SB75kFOtOXtYJ2yzqY7MY5toqani1wLjMSkrt4C-2MF1NLTo1X3BE5VkQAiOZnK9QA\"; e_fb_configversion=\"AcKv8zbcIN0ebVMQRuil_v0RVD2feQwy5m0WMijgEceAYwPY5Aqj2IJD25DOUg\", http_request_error; e_proxy=\"AcJRTPc2QmzoURBmgRFNu4i2D4njK_2I24m0IQXH0PcBKQOf3FWzcgUGf7IQJ197jn7mQ1-cyJD6B9-u\"; e_fb_binaryversion=\"AcKfuje1ISR_rEncaHWsygukLFDXD3t52m95GZFG1-r-gEmpXHliBXUcmknSuLqeJRg3tusXZONCDPvVjIxG-X5oIJySyK260hc\"; e_fb_httpversion=\"AcI4bCPdZldTtVEh8aWM7aiaDCrBz63qDXkaARFdwC9prl8uQKABn48REx47\"; e_fb_responsebytes=\"AcKu6MmeieUJUK0Met_eYmGYzrasgD0eI62BeOz-25jg0JpR9rV85fuauHk\"; e_fb_requesttime=\"AcJcAU7Wt2JTA7_gEKtmA1YewTXlCQJ86enFN5r2KanAPzvyv9XM_KmYUfRNpeRK_Udx4JgaQA\"; e_fb_requesthandler=\"AcIPsJRJ5gEIXVFtwwMN6A0fwBD0dKWScXSZvdeCWHS8io74nT33f_74FRr0kaG6jBIiPwu2\"; e_fb_hostheader=\"AcIv7gCcQP0YvYht3xP_pNdv4bps4YJnuY9VpkK5bvz8wZ87RJ4hWQcF6u6BnOjav8EKU46UH_meyA\"; e_fb_requestsequencenumber=\"AcJS0XmARik7umvQ82Z8cOphCgNd92IgTyalG8u3EhTqIcBs9sh2vVFifw\"; e_upip=\"AcKuHcBjUxkBjz0TCJpZIvdmzo_I8ygyQLszWUGIhI99NZU6smaCw9ni3d_cJaoC__jlaXmzGJpDMiSVszJHVeyWKPSCVJpL5w\"; e_fb_builduser=\"AcLqob0qDwzWXmVnVH7IdFEXIv3s4WMrQE-QvmG9AIVy7XFFSsAdQN_PbWidpWC7jwA\"; e_fb_vipport=\"AcJl7TlLudSkJVXSBXQ8njxZnROMk4I_61mLE6SQxfG_kvBiad0soZYNsP9_\"; e_clientaddr=\"AcJePq9shQFzKmleUfv1dXyTnFU8o0HEhi4eYbHwp9Rj1XgQKLM_vSBsd8hI0PVkGETwE6IDIzEeegqTfg\"; e_fb_vipaddr=\"AcKrPkTzd1I3YcZpWTzinyej95bFpdII6IbaE_4M8eqOTutlkE8lO_YaO8M-Xz2LRPv1QXA\"; e_fb_configversion=\"AcLaAUuI2PmIe3hepdxyBf-0WQ5otj07GkNzKHb2SK-Z4gUBQBPYf9chXIT8pQ\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=236, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=39, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:29.977Z",
+    "method": "ClientSync",
+    "response": {
+      "statusCode": 404,
+      "body": "Not Found <br /><a href=\"http://www.facebook.com/\">Back to Facebook.</a>",
+      "headers": {
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "content-security-policy": "default-src data: blob: 'self' https://*.fbsbx.com 'unsafe-inline' *.facebook.com *.fbcdn.net 'unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' blob: data: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;",
+        "reporting-endpoints": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", default=\"https://www.facebook.com/ajax/browser_error_reports/?device_level=medium&brsid=7430640322591607257\"",
+        "report-to": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640322591607257\"}]}, {\"max_age\":3600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/?device_level=medium&brsid=7430640322591607257\"}],\"group\":\"network-errors\"}",
+        "nel": "{\"report_to\":\"network-errors\",\"max_age\":3600,\"failure_fraction\":0.01}",
+        "cross-origin-opener-policy": "same-origin-allow-popups;report-to=\"coop_report\"",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=15552000; preload",
+        "content-type": "text/html; charset=\"utf-8\"",
+        "x-fb-debug": "d6VWYsY5mxbMVbL/c1cmfOok6It7RhgN50rCStq5IBSirT6xxdnKzgN9Oyxe6udgM0s7zhUH9Keq3DhGgMQLnw==",
+        "date": "Mon, 28 Oct 2024 01:59:29 GMT",
+        "proxy-status": "http_request_error; e_proxy=\"AcJgcVy7sDEhsvLf3sSWow8sSnIn741EAFXwR5LMQTyTJCHsOjF84-5jAWIaq4tFw1AQs1H9KDJ0nz21qpof\"; e_fb_binaryversion=\"AcKgD0ctMYhHQxEALSl3cUqc_uzmS5XWbAgznSe2ThSvCZyhYrlXaHV1N0OfoZCecA0VUVKEUH2f357MSvO4k4JemEs7EizGnwc\"; e_fb_httpversion=\"AcI2GjFBdxVv8LrPmGcO0AkojYWbNuvUhxca7J3HetNGZmSRX2oSkvqj94Hc\"; e_fb_responsebytes=\"AcLRuYyUGft0HhzgSlYKsP-IVSXl-0517QD1tv6oDx8_MDXrGTzEx0zVbYM\"; e_fb_requesttime=\"AcJOJN6_YR7fWJYiPG5vblZQtyorxYgdT5RepFfwbAG0MOA2LXzoYXk2tOOt6xlSg7FVW04XWg\"; e_fb_requesthandler=\"AcJeGWfucPPiVkrDo5jTvSvzKANiAc8DIIM7Sd1k-tIqp8PhlxEk648EkKg3GQNwoep5ituX\"; e_fb_hostheader=\"AcJEtEi52L-pHO1Vk-nJNOjyoEHw9quh3IAaWIumqw7IiWejK4JTpecyQriP48XroB4chkQOF-Gcow\"; e_fb_requestsequencenumber=\"AcJbzwwfhrLro4Bb0al9KG5inyJ0Mjs4MFM5F6mPLQZfpB_BN3n6et3p6pMq\"; e_upip=\"AcIKB7bGYyz2mOqwu6ymYsIzaSKopH09jOvKWc3lDLKoC-njMTn-kZiZ59vF5cI11_gXC5Fq4GOcSzee-dnWEJwviyyHvUnN4Bf4\"; e_fb_builduser=\"AcLutOhl5rMHzcYXVec5K5oI7_hPSs923cMVERReV19e4z3URwkv90dKN0BAiLxTWm4\"; e_fb_vipport=\"AcLrMbJQxCX1fkCsh93k8A4Bx1x-PESsME4ZyLTY65L2MEKw2BlbCOzd4oIe\"; e_clientaddr=\"AcILnuRUhEH2pVo1WG0S1TI9itu4piO7LWQsZxf42QemUGM70G_EychXwMnYJRz16FOY7qrh-qrspRaZpGmH7dLQX7Jnn4dMLZ6ZKNsnXqfJIyRz3Q\"; e_fb_vipaddr=\"AcLvds8riJE_MBgYkRRFnq-pVRudEPjvhU-VH65G6oojV61ICZNXFGnGwsBhCFW4PxnF9sLeKEyFYZLvkL4CLcWX2QvGa70qwQ\"; e_fb_configversion=\"AcJhttx4ds1JsgR6Vzl9FBcs_810DugLCC_l_Ao2zICFcdSiLUt3Z8KbaHDAcg\", http_request_error; e_proxy=\"AcIeOTZ-V2XuWkOTPGSVheIuQAayVJvCtudHM7M1PvuJ6Fkpu_9unm43D1LICdQaIRwQWLl-njv4IZU6\"; e_fb_binaryversion=\"AcKpim7BYOK0FQiSsx6-OrHt0RNIlUIb6xvG2rAAaTNtUqiucwGh_Ll9YFRf5NkATcUc3th8wvGj7KzU3rCWbt9iSfRacfnr4YA\"; e_fb_httpversion=\"AcK6CS8Ga4aJH6iY5Dq2GDaS67iZYTBu-4Ad4AmDE-x2liNZkXyAN4zs6rMS\"; e_fb_responsebytes=\"AcKOJidkF3un1gpSZSRed-51GLFLkDYVNB4TdlQMp50JDR_6wEWeVlk5MS4\"; e_fb_requesttime=\"AcJ8hfDNnh3OxvA7-oM1w7DIs92JCSm6VBc5nnOGHjZdsedhnFfiwocZLjiCiE2X1-OuS66Uew\"; e_fb_requesthandler=\"AcLsAKScBM-GCOGPNUMYmCFY2EoUk0yWq0PyTCSRcM1Ib8PktQ5nkdeqsN5aKoHCJIZVdc72\"; e_fb_hostheader=\"AcIrgd-liiev-3p6x7SCR3q3Z-1QWRWWnp3HHPmE4I6YozZ0P8e8IjPB05ygXdR_ejeweTf1XDmVMQ\"; e_fb_requestsequencenumber=\"AcJg-cTnH7D4dUe9dz3-uw9O1d60C7OUInaCgaPRzajaVxScJpw2ZPIpHg\"; e_upip=\"AcIZEx18qTeuTUOcPLgORzsJPFGDocEdvtiZqBmSB59ex0Eo3x0TzT_EINMMMf58U0Wixp9k2cQdXpJ8Zdhw3grdzvWtISgvsg\"; e_fb_builduser=\"AcKvxxXzWrZ_-Pke8TczPUIICukNMYRspmsbY-8H7fZTNZCMW5UnDv_Q89UqojXzUW8\"; e_fb_vipport=\"AcJpdzxXsXdcnm6I_tfahN8spZ-hHRyudfUAg4LC2mi1WwFhtqLqz9hwgcqN\"; e_clientaddr=\"AcKNFQezEV7nhrTHc65NWtqlBXY5dk-t5fwZLylIcVrTF3-m498JuHPH8c2gGYf9hAnvbId8uc4zA_q6Og\"; e_fb_vipaddr=\"AcK8d9AHT5EdmoASAnSecNwsO5zf365mkqQAbKijZEbr7RveVl_vrjvXVXtS1Hjot8A2Ygw\"; e_fb_configversion=\"AcL1yV8kjNBL6ijNfx4jqv-ubL4zAC-FcVLlq-S4b76t6x-XLypJS2ad5eGxUA\"",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=224, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=38, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "keep-alive",
+        "content-length": "72"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/messenger_sync/get_client_sync/",
+          "path": "/messenger_sync/get_client_sync/",
+          "href": "https://www.facebook.com/messenger_sync/get_client_sync/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 179
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:29.977Z",
+    "method": "Deltas",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640323605940254\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "Agfad02iQaTSSWhKwpOk84grOTvcAKKVZnpDqCjZioF3O8sRNkeomvQMwd3fojlfm9/VfuVBAbViekkishWxlg==",
+        "date": "Mon, 28 Oct 2024 01:59:29 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=227, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=39, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphql/",
+          "path": "/api/graphql/",
+          "href": "https://www.facebook.com/api/graphql/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 323
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2024-10-28T01:59:29.977Z",
+    "method": "MessengerSync",
+    "response": {
+      "statusCode": 200,
+      "body": "for (;;);{\"__ar\":1,\"error\":1357004,\"errorSummary\":\"R\\u1ea5t ti\\u1ebfc, \\u0111\\u00e3 x\\u1ea3y ra l\\u1ed7i\",\"errorDescription\":\"Vui l\\u00f2ng th\\u1eed \\u0111\\u00f3ng v\\u00e0 m\\u1edf l\\u1ea1i c\\u1eeda s\\u1ed5 tr\\u00ecnh duy\\u1ec7t c\\u1ee7a b\\u1ea1n.\",\"isNotCritical\":1,\"payload\":null,\"lid\":\"7430640323368619502\"}",
+      "headers": {
+        "content-encoding": "gzip",
+        "content-type": "application/x-javascript; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "pragma": "no-cache",
+        "cache-control": "private, no-cache, no-store, must-revalidate",
+        "expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "access-control-expose-headers": "X-FB-Debug, X-Loader-Length, X-Stack",
+        "access-control-allow-methods": "OPTIONS",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://www.facebook.com",
+        "vary": "Origin, Accept-Encoding",
+        "strict-transport-security": "max-age=15552000; preload",
+        "x-fb-debug": "86U4U5z5wHpbjcnv43ZGLAkBJ5H+BKQVu6HNurSkCI7j6DVkpsRJU7CFvUmcUL1c34qU3DuDXSXwGYHGug8bpw==",
+        "date": "Mon, 28 Oct 2024 01:59:29 GMT",
+        "x-fb-connection-quality": "MODERATE; q=0.3, rtt=224, rtx=0, c=10, mss=1392, tbw=372, tp=-1, tpl=-1, uplat=48, ullat=0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      },
+      "request": {
+        "uri": {
+          "protocol": "https:",
+          "slashes": true,
+          "auth": null,
+          "host": "www.facebook.com",
+          "port": 443,
+          "hostname": "www.facebook.com",
+          "hash": null,
+          "search": null,
+          "query": null,
+          "pathname": "/api/graphqlbatch/",
+          "path": "/api/graphqlbatch/",
+          "href": "https://www.facebook.com/api/graphqlbatch/"
+        },
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Referer": "https://www.facebook.com/",
+          "Host": "www.facebook.com",
+          "Origin": "https://www.facebook.com",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+          "Connection": "keep-alive",
+          "sec-fetch-site": "same-origin",
+          "sec-fetch-mode": "cors",
+          "cookie": "sb=Zv2sZtj5qhN5eN7mAPjuQH8y; datr=Zv2sZgKlrWBU_PRP36ZqX5U-; ps_l=1; ps_n=1; c_user=100029378752728; wd=600x1121; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1729388302572%2C%22v%22%3A1%7D; fr=1efo5wb0r5kmbKTbp.AWVXRgqE5-KUrs4X3ztsGcdO7Qc.BnFF8O..AAA.0.0.BnHu-1.AWU9fyssweA; xs=43%3AN--f6CbIWhq0hQ%3A2%3A1727195992%3A-1%3A6221%3A%3AAcUmeVtOXiM4kF5-0fATxXr7xK6UNQKI6-VEonRcnoY; locale=vi_VN",
+          "accept-encoding": "gzip, deflate",
+          "content-length": 300
+        }
+      }
+    }
+  }
+]
